@@ -1,5 +1,8 @@
 # 💫 About Me:
- Hi there, I’m Kamal!<br> AI/ML Enthusiast <br> On a mission to decode intelligence, one model at a time.<br> Currently building projects, breaking things, and learning along the way.<br>Exploring everything from neural networks to vision transformers.<br>📈 Always curious, Always growing.<br><br>Let’s turn ideas into algorithms! 
+ Hi there, I’m Kamal!<br>
+ Exploring Web Development with background on NLP LLM <br>
+ Currently building projects, breaking things, and learning along the way<br>
+
 
 
 # 💻 Tech Stack:
