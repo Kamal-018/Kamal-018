@@ -1,5 +1,5 @@
 # About Me:
-Hi there, I’m Kamal!<br>Exploring Web Development with background on NLP LLM<br>Currently building projects, breaking things, and learning along the way
+Hi there, I’m Kamal!<br>Exploring NLP LLM along with CV <br>Currently building projects, breaking things, and learning along the way
 
 
 # Tech Stack:
